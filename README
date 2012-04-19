@@ -1,0 +1,16 @@
+vim 
++ pathogen 
++ vimenv script forked from git://github.com/xuxiaodong/vimenv.git
+
+Installation:
+
+	git clone git://github.com/steve13814/dotvim.git ~/.vim
+
+Create symlinks:
+
+	ln -s ~/.vim/vimrc ~/.vimrc
+	cd ~/.vim
+ 	git submodule init
+	git submodule update
+						
+

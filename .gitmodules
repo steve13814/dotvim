@@ -1,0 +1,27 @@
+[submodule "bundle/pathogen.vim"]
+	path = bundle/pathogen.vim
+	url = git://github.com/vim-scripts/pathogen.vim.git
+[submodule "bundle/neocomplcache"]
+	path = bundle/neocomplcache
+	url = git://github.com/vim-scripts/neocomplcache.git
+[submodule "bundle/IndexedSearch"]
+	path = bundle/IndexedSearch
+	url = git://github.com/vim-scripts/IndexedSearch.git
+[submodule "bundle/xoria256.vim"]
+	path = bundle/xoria256.vim
+	url = git://github.com/vim-scripts/xoria256.vim.git
+[submodule "bundle/javacomplete"]
+	path = bundle/javacomplete
+	url = git://github.com/vim-scripts/javacomplete.git
+[submodule "bundle/pythoncomplete"]
+	path = bundle/pythoncomplete
+	url = git://github.com/vim-scripts/pythoncomplete.git
+[submodule "bundle/The-NERD-tree"]
+	path = bundle/The-NERD-tree
+	url = git://github.com/vim-scripts/The-NERD-tree.git
+[submodule "bundle/jellybeans.vim"]
+	path = bundle/jellybeans.vim
+	url = git://github.com/vim-scripts/jellybeans.vim.git
+[submodule "bundle/taglist.vim"]
+	path = bundle/taglist.vim
+	url = git://github.com/vim-scripts/taglist.vim.git
