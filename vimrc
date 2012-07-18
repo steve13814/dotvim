@@ -80,6 +80,7 @@ set hlsearch   " Highlight search things
 set wrapscan   " Make search wrap around
 
 "" Moving around and tabs"""""""""""""""""""""""""""""""""""""""""
+set diffopt+=vertical
 nnoremap <LEADER>tc :tabnew<CR>
 nnoremap <LEADER>te :tabedit<SPACE>
 nnoremap <LEADER>tm :tabmove<SPACE>
